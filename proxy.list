@@ -1,0 +1,51 @@
+# ===== SOCIAL / META =====
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,igcdn.net
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,gateway.instagram.com
+
+# ===== NEWS / INFO =====
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,svoboda.org
+DOMAIN-SUFFIX,currenttime.tv
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikipedia.com
+
+# ===== AI / DEV =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.io
+
+# ===== MEDIA / SERVICES =====
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,cnn.com
+
+# ===== OTHER FREQUENT BLOCKS =====
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
