@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,gateway.instagram.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
 
 # ================= NEWS / POLITIC =================
 DOMAIN-SUFFIX,bbc.com
