@@ -1,4 +1,4 @@
-# ===== SOCIAL / META =====
+# ================= SOCIAL / META =================
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,igcdn.net
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,gateway.instagram.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
 
-# ===== NEWS / INFO =====
+# ================= NEWS / POLITIC =================
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bloomberg.com
@@ -21,46 +23,96 @@ DOMAIN-SUFFIX,currenttime.tv
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikipedia.com
 
-# ===== AI / DEV =====
+# ================= AI / LLM =================
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,api.openai.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,lmarena.ai
+
+# ================= DEV =================
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.io
 
-# ===== MEDIA / SERVICES =====
+# ================= MEDIA =================
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,last.fm
 
-# ===== OTHER FREQUENT BLOCKS =====
+# ================= VIDEO / STREAMING =================
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,lostfilm.tv
+DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,hdrezka-home.tv
+DOMAIN-SUFFIX,stream.voidboost.cc
+
+# ================= TELEGRAM =================
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,telegram-cdn.org
+
+# ================= WHATSAPP =================
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,mmg.whatsapp.net
+DOMAIN-SUFFIX,static.whatsapp.net
+
+# ================= TORRENT / TRACKERS =================
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,static.rutracker.cc
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-KEYWORD,rutracker
+DOMAIN-KEYWORD,rutor
+
+# ================= PRIVACY / CHECK =================
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,2ip.io
+
+# ================= GLOBO =================
+DOMAIN-SUFFIX,globo.com
+DOMAIN-SUFFIX,globoplay.globo.com
+DOMAIN-SUFFIX,goidc.globo.com
+DOMAIN-SUFFIX,login.globo.com
+DOMAIN-SUFFIX,authx.globoid.globo.com
+DOMAIN-SUFFIX,minhaconta.globo.com
+DOMAIN-SUFFIX,opto.sic.pt
+
+# ================= MISC =================
+DOMAIN-SUFFIX,4pda.to
+DOMAIN-SUFFIX,rockblack.su
+DOMAIN-SUFFIX,befree.ru
+
+# ================= CLOUDFLARE / ECH =================
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,developers.cloudflare.com
+DOMAIN-SUFFIX,challenge.cloudflare.com
+
+# ================= LEGACY (FROM OLD LIST) =================
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
-
-# ===== TELEGRAM =====
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram-cdn.org
-
-# ===== WHATSAPP =====
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,wa.me
-
