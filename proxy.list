@@ -121,3 +121,10 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,duckduckgo.com
+
+# ================= HORNET =================
+DOMAIN-SUFFIX,hornet.com
+DOMAIN-SUFFIX,api.hornet.com
+DOMAIN-SUFFIX,cdn.hornet.com
+DOMAIN-SUFFIX,media.hornet.com
+
