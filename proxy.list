@@ -128,3 +128,22 @@ DOMAIN-SUFFIX,api.hornet.com
 DOMAIN-SUFFIX,cdn.hornet.com
 DOMAIN-SUFFIX,media.hornet.com
 
+# ================= VIBER =================
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,vibercdn.com
+DOMAIN-SUFFIX,viber.biz
+DOMAIN-SUFFIX,viber.me
+
+# ================= TIMEHOP =================
+DOMAIN-SUFFIX,timehop.com
+DOMAIN-SUFFIX,api.timehop.com
+DOMAIN-SUFFIX,cdn.timehop.com
+DOMAIN-SUFFIX,media.timehop.com
+
+# ================= STRANA =================
+DOMAIN-SUFFIX,strana.ua
+DOMAIN-SUFFIX,strana.news
+DOMAIN-SUFFIX,strana.one
+DOMAIN-SUFFIX,strana.today
+DOMAIN-SUFFIX,strana.digital
+
