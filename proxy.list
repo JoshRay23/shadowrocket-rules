@@ -147,3 +147,7 @@ DOMAIN-SUFFIX,strana.one
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strana.digital
 
+# ================= GROK =================
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,video.twimg.com
